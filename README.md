@@ -2,4 +2,4 @@
 simple calculator
 
 
-img src="icon.png">
+<img src="icon.png">
